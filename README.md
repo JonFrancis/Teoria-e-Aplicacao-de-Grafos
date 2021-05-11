@@ -3,8 +3,8 @@ Instituto de Ciencias Exatas
 Departamento de Ciencia da Computação
 Projeto 4
 Teoria e Aplicação de Grafos, Turma A, 1/2020							    
-Professor: Díbio
-Aluno: Carlos Eduardo de Oliveira Ribeiro - 180099094   			
+Professor: Díbio 
+Aluno: Carlos Eduardo de Oliveira Ribeiro - 180099094 
 Aluno: João Gabriel Ferreira Sariava - 180103016						
 Versao do compilador: g++ 9.3.0
 Como Compilar: g++ Main.cpp Trabalho.cpp -o NomeDoArquivoExe
