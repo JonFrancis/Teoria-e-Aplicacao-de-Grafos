@@ -11,6 +11,9 @@ Como Compilar: g++ Main.cpp Trabalho.cpp -o NomeDoArquivoExe
 Biblioteca Grafica utilizada: Graphviz
 
 Descrição : Implementar um algoritimo que realize uma coloração no grafo do fluxo do curso de Ciência da Computação seguindo os seguintes requisitos:
+
 (1) Pelo menos 48 horas de uma aula para outra da mesma matéria
+
 (2) Preencher os horários o mais proximo prossivel
+
 (3) Gerar em uma ferramenta gráfica o grafo colorido e o grafo original
